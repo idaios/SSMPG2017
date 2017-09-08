@@ -156,10 +156,8 @@ For (ii): assuming that $HOME/bin/ is in your PATH, simply:
 cp SweeD $HOME/bin/
 ```
 
-To run SweeD and assuming that the input file is called: 
-```
-input.VCF
-```, 
+To run SweeD and assuming that the input file is called **input.vcf**: 
+
 just type:
 ``` 
 SweeD -input input.VCF -grid 1000 -name MYRUN
